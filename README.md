@@ -6,7 +6,15 @@
 
 <h1 align="center" style="text-align: center;">Reactive Graph</h1>
 
-<h2 align="center" style="text-align: center;">Organization Projects</h2>
+<h2 align="center" style="text-align: center;">META (Organization Projects)</h2>
+
+### [Design System](https://github.com/reactive-graph/design)
+
+<div style="background-color: #333333; padding: 10px 50px; font-size: 12pt;">
+
+Create a design system for Reactive Graph websites and applications. It establishes a common design language, provides reusable coded components, and outlines high level guidelines for content and accessibility. Using the Atomic design methodology the design system is composed of five distinct stages working together to create interface design systems in a more deliberate and hierarchical manner. Also, Web Components are used to create reusable custom elements.
+
+</div>
 
 ### [OpenSSF Best Practices Badge Program](https://github.com/reactive-graph/meta/issues/1)
 
